@@ -3,53 +3,48 @@ import styles from '../styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'website',
-    link: 'nitinranganath.me',
-    href: 'https://nitinranganath.me',
+    link: 'matheusfelipe.me',
+    href: 'https://matheusfelipe.me',
   },
   {
     social: 'email',
-    link: 'nitinranganath@gmail.com',
-    href: 'mailto:nitinranganath@gmail.com',
+    link: 'me@matheusfelipe.me',
+    href: 'mailto:me@matheusfelipe.me',
   },
   {
     social: 'github',
-    link: 'itsnitinr',
-    href: 'https://github.com/itsnitinr',
+    link: 'MatheusFelipeMarinho',
+    href: 'https://github.com/MatheusFelipeMarinho',
   },
   {
     social: 'linkedin',
-    link: 'nitinranganath',
-    href: 'https://www.linkedin.com/in/nitinranganath/',
+    link: 'Matheus Felipe Marinho',
+    href: 'https://www.linkedin.com/in/matheus-marinho-a3b86780/',
   },
   {
     social: 'twitter',
-    link: 'iamnitinr',
-    href: 'https://www.twitter.com/iamnitinr',
+    link: '@matheus.carmo',
+    href: 'https://www.twitter.com/matheus.carmo1989',
   },
   {
     social: 'instagram',
-    link: 'iamnitinr',
-    href: 'https://www.instagram.com/iamnitinr',
-  },
-  {
-    social: 'polywork',
-    link: 'nitinranganath',
-    href: 'https://www.polywork.com/nitinranganath',
+    link: 'matheusfelipe.1',
+    href: 'https://www.instagram.com/matheusfelipe.1/',
   },
   {
     social: 'telegram',
-    link: 'iamnitinr',
+    link: 'Matheus',
     href: 'https://t.me/iamnitinr',
   },
   {
     social: 'codepen',
-    link: 'nitinranganath',
-    href: 'https://codepen.io/itsnitinr',
+    link: 'matheusfelipe',
+    href: 'https://codepen.io/matheus.carmo1989',
   },
   {
     social: 'codesandbox',
-    link: 'itsnitinr',
-    href: 'https://codesandbox.io/u/itsnitinr',
+    link: 'matheusfelipe',
+    href: 'https://codesandbox.io/u/matheus.carmo1989',
   },
 ];
 
