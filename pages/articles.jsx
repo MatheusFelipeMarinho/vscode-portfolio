@@ -7,7 +7,7 @@ const ArticlesPage = ({ articles }) => {
       <h3>
         Recent Posts from{' '}
         <a
-          href="https://dev.to/itsnitinr"
+          href="https://dev.to/matheusfelipemarinho"
           target="_blank"
           rel="noopener"
           className={styles.underline}
@@ -26,16 +26,13 @@ const ArticlesPage = ({ articles }) => {
 
 export async function getStaticProps() {
   const res = await fetch(
-    'https://dev.to/api/articles/me/published?per_page=6',
+    'https://dev.to/api/articles/me/all',
     {
-      headers: {
-        'api-key': process.env.DEV_TO_API_KEY,
-      },
+      headers: {"api-key": process.env.DEV_TO_API_KEY},
     }
   );
-
+  
   const data = await res.json();
-
   return {
     props: { title: 'Articles', articles: data },
     revalidate: 60,
