@@ -85,3 +85,74 @@
 .css-modules:hover {
   background: rgba(21, 114, 182, 0.25);
 }
+
+/* news */
+.vue {
+  border: 0.1rem solid rgb(97, 218, 251);
+}
+.vue:hover {
+  background: rgba(97, 218, 251, 0.25);
+}
+
+.laravel {
+  border: 0.1rem solid rgb(205, 46, 41);
+}
+.laravel:hover {
+  background: rgba(240, 132, 105, 0.25);
+}
+
+.mysql {
+  border: 0.1rem solid rgb(67, 153, 52);
+}
+.mysql:hover {
+  background: rgba(67, 153, 52, 0.25);
+}
+
+.vuetify {
+  border: 0.1rem solid rgb(118, 74, 188);
+}
+.vuetify:hover {
+  background: rgba(118, 74, 188, 0.25);
+}
+
+.forge {
+  border: 0.1rem solid rgb(82, 143, 240);
+}
+.forge:hover {
+  background: rgba(82, 143, 240, 0.25);
+}
+
+.livewire {
+  border: 0.1rem solid rgb(131, 205, 41);
+}
+.livewire:hover {
+  background: rgba(131, 205, 41, 0.25);
+}
+
+.alpinejs {
+  border: 0.1rem solid rgb(118, 74, 188);
+}
+.alpinejs:hover {
+  background: rgba(118, 74, 188, 0.25);
+}
+
+.bootstrap-vue {
+  border: 2px solid rgb(0, 112, 243);
+}
+.bootstrap-vue:hover {
+  background: rgba(0, 112, 243, 0.25);
+}
+
+.gcp {
+  border: 2px solid rgb(21, 114, 182);
+}
+.gcp:hover {
+  background: rgba(21, 114, 182, 0.25);
+}
+
+.javascript {
+  border: 2px solid rgb(248, 244, 5);
+}
+.javascript:hover {
+  background: rgba(234, 236, 84, 0.25);
+}
