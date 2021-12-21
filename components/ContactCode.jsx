@@ -34,7 +34,7 @@ const contactItems = [
   {
     social: 'telegram',
     link: 'Matheus',
-    href: 'https://t.me/iamnitinr',
+    href: 'https://t.me/27999491575',
   },
   {
     social: 'codepen',
